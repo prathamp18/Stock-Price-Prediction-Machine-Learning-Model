@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using LSTM (NVIDIA Example)
+# 📈 Stock Price Prediction using LSTM (APPLE Example)
 
 This project demonstrates how to use a **Long Short-Term Memory (LSTM)** neural network to predict future stock prices using historical stock market data.  
 The model learns patterns from previous days' prices to forecast the **next day’s closing price**.
